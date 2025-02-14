@@ -6,4 +6,3 @@ This repository contains hands-on Data Engineering projects covering:
 2️⃣ **Real-Time Streaming with Kafka & PySpark** - Processes real-time data streams using Kafka, PySpark, and AWS S3.
 
 Each project folder contains detailed steps, scripts, and configurations.
-
